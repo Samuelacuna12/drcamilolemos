@@ -2,7 +2,7 @@
   "concept_by": "Samuel Acuña",
   "practice": "Dr. Camilo Lemos",
   "official_website": "https://camilolemos.net/",
-  "reviewed": "2026-10-29",
+  "reviewed": "2026-10-30",
   "images": [
     {
       "file": "assets/hero.webp",
@@ -40,5 +40,20 @@
       "video_url": "https://www.youtube.com/watch?v=rflisZv8pwQ"
     }
   ],
-  "note": "Public images used for an independent commercial demonstration. Image ownership remains with the original rights holders. No clinical outcome is promised."
+  "note": "Public images used for an independent commercial demonstration. Image ownership remains with the original rights holders. No clinical outcome is promised.",
+  "medical_revision": [
+    {
+      "file": "assets/medical-clinical.webp",
+      "source_url": "https://clinicaelpinar.co/wp-content/uploads/elementor/thumbs/Camilo_Lemos-removebg-preview-qyfizmddopsheok5dmdltuayn4wkz3bp6mzl5ae5gs.png",
+      "source_page": "https://clinicaelpinar.co/dr-camilo-andres-lemos-parra/",
+      "role": "clinical"
+    },
+    {
+      "file": "assets/medical-portrait-med.webp",
+      "source_url": "https://clinicadhara.com/wp-content/uploads/2021/04/camilo-lemos.png",
+      "source_page": "https://clinicadhara.com/cirujanos-dhara/camilo-lemos/",
+      "role": "portrait-med"
+    }
+  ],
+  "design_status": "Medical identity revision following user feedback"
 }
