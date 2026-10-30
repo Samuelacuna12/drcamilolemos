@@ -1,0 +1,44 @@
+{
+  "concept_by": "Samuel Acuña",
+  "practice": "Dr. Camilo Lemos",
+  "official_website": "https://camilolemos.net/",
+  "reviewed": "2026-10-29",
+  "images": [
+    {
+      "file": "assets/hero.webp",
+      "source_url": "https://camilolemos.net/wp-content/uploads/2025/07/DSC05065-scaled-e1753979442240.webp",
+      "source_page": "https://camilolemos.net/",
+      "role": "hero",
+      "original_caption": ""
+    },
+    {
+      "file": "assets/hero.webp",
+      "source_url": "https://camilolemos.net/wp-content/uploads/2025/07/DSC05065-scaled-e1753979442240.webp",
+      "source_page": "https://camilolemos.net/",
+      "role": "portrait",
+      "original_caption": ""
+    },
+    {
+      "file": "assets/detail.webp",
+      "source_url": "https://camilolemos.net/wp-content/uploads/2025/09/Antes.jpg",
+      "source_page": "https://camilolemos.net/",
+      "role": "detail",
+      "original_caption": "Antes"
+    },
+    {
+      "file": "assets/case1.webp",
+      "source_url": "https://camilolemos.net/wp-content/uploads/2025/09/Despues.jpg",
+      "source_page": "https://camilolemos.net/",
+      "role": "case1",
+      "original_caption": "Despues"
+    },
+    {
+      "file": "assets/video-poster.webp",
+      "source_url": "https://i.ytimg.com/vi/rflisZv8pwQ/hqdefault.jpg",
+      "source_page": "https://camilolemos.net/dr-camilo-lemos/",
+      "role": "doctor video poster",
+      "video_url": "https://www.youtube.com/watch?v=rflisZv8pwQ"
+    }
+  ],
+  "note": "Public images used for an independent commercial demonstration. Image ownership remains with the original rights holders. No clinical outcome is promised."
+}
